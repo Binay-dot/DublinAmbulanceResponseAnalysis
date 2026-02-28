@@ -7,8 +7,8 @@
 > **A comprehensive analysis of Dublin Fire Brigade ambulance response data to identify operational performance gaps and investment opportunities.**
 
 **Presenter:** Binay Tiwari  
-**Student ID:** 20070646  
-**Institution:** Master's in Business Analytics, Dublin
+**Nail:** binaykumartiwari423@gmail.com  
+
 
 ---
 
