@@ -38,6 +38,7 @@ This project analyzes Dublin Fire Brigade's ambulance response data to uncover o
 **Why This Matters:** Response time directly impacts survival rates in medical emergencies. Understanding performance gaps can save lives.
 
 **Dashboard Overview**
+
 ![BI Dashboard Overview](https://github.com/Binay-dot/DublinAmbulanceResponseAnalysis/blob/main/BI_Dashboard.png)
 ---
 
