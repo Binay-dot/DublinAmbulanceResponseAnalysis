@@ -541,9 +541,9 @@ DIVIDE(
 ## 🎓 Academic Context
 
 **Course:** Business Analytics  
-**Institution:** Dublin (Master's Program)  
+**Institution:** Dublin Business School (Master's Program)  
 **Presenter:** Binay Tiwari  
-**Student ID:** 20070646  
+ 
 
 **Skills Demonstrated:**
 - Data cleaning and validation
@@ -585,7 +585,7 @@ This project uses public data from Open Data Dublin. The analysis and visualizat
 
 - **Open Data Dublin** for providing high-quality public datasets
 - **Dublin Fire Brigade** for transparency in sharing operational data
-- **Master's Program Instructors** for guidance on analytical methodologies
+- **Rudi O'Reilly Meehan** for guidance on analytical methodologies
 - **Power BI Community** for DAX formula support and best practices
 
 ---
