@@ -39,7 +39,7 @@ This project analyzes Dublin Fire Brigade's ambulance response data to uncover o
 
 **Dashboard Overview**
 
-![BI Dashboard Overview](https://github.com/Binay-dot/DublinAmbulanceResponseAnalysis/blob/main/BI_Dashboard.png)
+![BI Dashboard Overview](https://github.com/Binay-dot/DublinAmbulanceResponseAnalysis/blob/main/BI_Dashboard2.png)
 ---
 
 ## 🔍 Key Questions & Impact
